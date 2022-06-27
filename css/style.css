@@ -78,12 +78,12 @@ nav .grren-sign-up:hover{
     padding-top: 2%;
     background-repeat: no-repeat;
     background-clip: padding-box;
-    background-image: url(img/floating_elements.svg);
+    background-image: url(../img/floating_elements.svg);
 }
 .screen1 .info-block{
     width: 75%;
     height: 383px;
-    background-image: url(img/Hero.png);
+    background-image: url(../img/Hero.png);
     background-repeat: no-repeat;
     background-position: right;
     margin: 0 auto;
