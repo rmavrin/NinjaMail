@@ -24,6 +24,7 @@ header{
     justify-content: space-around;
     margin: 0 auto;
 }
+
 .logo{
     display: flex;
     align-items: center;
@@ -146,7 +147,7 @@ nav .grren-sign-up:hover{
 .info-block-1{
     width: 65%;
     height: 531px;
-    background-image: url(/img/VIDEO.png);
+    background-image: url(../img/VIDEO.png);
     background-repeat: no-repeat;
     padding: 10%;
     background-size: contain;
@@ -244,7 +245,7 @@ nav .grren-sign-up:hover{
 }
 
 .screen2{
-    background-image: url(/img/bg\ \stuff.png);
+    background-image: url(../img/bg\ \stuff.png);
     background-position-y: -177px;
     background-repeat: no-repeat;
     padding-top: 5%;
@@ -269,13 +270,13 @@ nav .grren-sign-up:hover{
 .person-1{
     width: 32%;
     height: 239px;
-    background-image: url(/img/photo\ \(2\).png);
+    background-image: url(../img/photo\ \(2\).png);
     background-repeat: no-repeat;
 }
 .person-2{
     width: 32%;
     height: 239px;
-    background-image: url(/img/photo\ \(3\).png);
+    background-image: url(../img/photo\ \(3\).png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -283,7 +284,7 @@ nav .grren-sign-up:hover{
 .person-3{
     width: 32%;
     height: 239px;
-    background-image: url(/img/photo\ \(4\).png);
+    background-image: url(../img/photo\ \(4\).png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -485,9 +486,7 @@ footer{
 .down-side a:hover{
     color: #4BA87D;
 }
-/* main{
-    width: 100%;
-} */
+
 @media (max-width:1024px){
     body{
         width: 1024px;
